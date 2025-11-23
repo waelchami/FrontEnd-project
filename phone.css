@@ -468,7 +468,7 @@ footer{
 	/* align-items:center; */
     /* justify-content:center; */
 	padding:150px 0 0 220px; 
-	background-image:url("bg_sky_darker.gif");
+	background-image:url("logoPhoto/bg_sky_darker.gif");
 }
 footer ul li a {
 	color:#FFF4A3;
@@ -536,4 +536,5 @@ footer .shared img {
 
 .sochel li {
 	padding:7px;
+
 }
